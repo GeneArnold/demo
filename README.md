@@ -4,4 +4,10 @@ This is a simple readme file
 
 More test
 
-This is gonna cause trouble
+Just some changes
+
+New change
+
+Updates in stage
+
+More chagnes
